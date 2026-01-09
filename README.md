@@ -1,1 +1,1 @@
-# bomb_but_friendly
+# README
